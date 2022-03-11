@@ -1,5 +1,7 @@
 ## Task planner users
 
+La url base del microservicio es [https://taskplannerusers.herokuapp.com](https://taskplannerusers.herokuapp.com)
+
 ## Autor 
 [Richard Santiago Urrea Garcia](https://github.com/RichardUG)
 
